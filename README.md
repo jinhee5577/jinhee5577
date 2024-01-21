@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-0095D5?style=flat-square&logo=Javascript&logoColor=yellow"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-007396?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/express-007396?style=flat-square&logo=express&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=C++&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-0095D5?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-0095D5?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Axios-3776AB?style=flat-square&logo=Axios&logoColor=white"/></a>
