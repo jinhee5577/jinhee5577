@@ -1,4 +1,4 @@
-### 안녕하세요. 상상을 현실로 만드는 프론트엔드,UI 개발자 오진희 입니다. 👋
+### 안녕하세요. 상상을 현실로 만드는 프론트엔드 개발자 오진희 입니다. 👋
 ### 또하나의 창의적이고 놀라운 UX 프로젝트 개발중. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinhee5577)](https://hits.seeyoufarm.com)
