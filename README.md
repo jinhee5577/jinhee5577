@@ -12,7 +12,8 @@
 # 🪪Contact & Channel
 - 에러를 해결한 벨로그 기록입니다: https://velog.io/@diorjj/posts
 - E-mail: riricos153@naver.com
-- github: https://github.com/krafjin56
+- github: https://github.com/jinhee5577
+- 메인포토폴리오 링크: https://jinhee5577.github.io/Jinhee_PF/
   
 # ⛏Slills
  ### Back-end
