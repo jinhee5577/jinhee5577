@@ -21,7 +21,7 @@
 - FireBase, GoogleCloud
 
 ### Front-end
-- Javascript, React.js, React-Redux, HTML5/CSS3
+- Javascript, React.js, React-Redux, HTML5/CSS3, Ajax, axios
 
 ### Database
 - ORACLE, MongoDB, Mybatis
