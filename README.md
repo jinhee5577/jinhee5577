@@ -17,14 +17,14 @@
   
 # ⛏Slills
  ### Back-end
-- JAVA, Node.js, Express, Spring, Servlets, Eclipse, Apache Tomcat,
+- Node.js, Express.js
 - FireBase, GoogleCloud
 
 ### Front-end
 - Javascript, React.js, React-Redux, HTML5/CSS3, Ajax, axios
 
 ### Database
-- ORACLE, MongoDB, Mybatis
+- ORACLE
 ----
 
 <br>
@@ -54,12 +54,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-0095D5?style=flat-square&logo=Javascript&logoColor=yellow"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-007396?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/express-007396?style=flat-square&logo=express&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-007396?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=Servlet&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=JSP&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/OracleDB-007396?style=flat-square&logo=OracleDB&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/c++-007396?style=flat-square&logo=c++&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-0095D5?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-0095D5?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Axios-3776AB?style=flat-square&logo=Axios&logoColor=white"/></a>
