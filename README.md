@@ -10,6 +10,7 @@
 ----
 
 # 🪪Contact & Channel
+- 알고리즘 코딩테스트 문제 연습 링크: https://github.com/jinhee5577/-StudyAlgorithm 
 - 에러를 해결한 벨로그 기록입니다: https://velog.io/@diorjj/posts
 - E-mail: riricos153@naver.com
 - github: https://github.com/jinhee5577
