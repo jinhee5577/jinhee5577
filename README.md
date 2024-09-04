@@ -18,15 +18,16 @@
   
 # ⛏Slills
  ### Back-end
-- Node.js, Express.js
+- JAVA, Node.js, Express, Spring, Servlets,
 - FireBase, GoogleCloud
 
 ### Front-end
-- Javascript, React.js, React-Redux, HTML5/CSS3, Ajax, axios
+- Javascript, React.js, React-Redux, HTML5/CSS3, Ajax, axios, Jsp
 
 ### Database
-- OracleDB
+- OracleDB, Mybatis
 ----
+
 
 <br>
 
@@ -53,6 +54,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Redux-007396?style=flat-square&logo=Redux&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-0095D5?style=flat-square&logo=Javascript&logoColor=yellow"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-0095D5?style=flat-square&logo=JAVA&logoColor=yellow"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-007396?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/express-007396?style=flat-square&logo=express&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/OracleDB-007396?style=flat-square&logo=OracleDB&logoColor=white"/></a>
