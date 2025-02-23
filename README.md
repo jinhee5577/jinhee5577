@@ -14,18 +14,18 @@
 - 에러를 해결한 벨로그 기록입니다: https://velog.io/@diorjj/posts
 - E-mail: riricos153@naver.com
 - github: https://github.com/jinhee5577
-- 메인포토폴리오 링크: https://jinhee5577.github.io/Jinhee_PF/
+- 메인 포트폴리오 링크: https://jinhee5577.github.io/Jinhee_PF/
   
 # ⛏Skills
  ### Back-end
-- JAVA, Node.js, Express, Spring, Servlets,
+- JAVA, Django, Spring, Servlets, Node.js, Express 
 - FireBase, GoogleCloud
 
 ### Front-end
 - Javascript, React.js, React-Redux, HTML5/CSS3, Ajax, axios, Jsp
 
 ### Database
-- OracleDB, Mybatis
+- OracleDB, SQLite, Mybatis
 ----
 
 
