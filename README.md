@@ -11,7 +11,7 @@
 
 # 🪪Contact & Channel
 - 알고리즘 코딩테스트 문제 연습 링크: https://github.com/jinhee5577/-StudyAlgorithm 
-- 에러를 해결한 벨로그 기록입니다: https://velog.io/@diorjj/posts
+- 회사 프로젝트 개발시 기록한 코드와 에러 해결을 기록한 벨로그 기록입니다: https://velog.io/@diorjj/posts
 - E-mail: riricos153@naver.com
 - github: https://github.com/jinhee5577
 - 메인 포트폴리오 링크: https://jinhee5577.github.io/Jinhee_PF/
