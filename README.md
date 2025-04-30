@@ -18,14 +18,14 @@
   
 # ⛏Skills
  ### Back-end
-- JAVA, Django, Spring, Servlets, Node.js, Express 
+- JAVA, Django, DRF, Spring, Servlets, Node.js, Express 
 - FireBase, GoogleCloud
 
 ### Front-end
 - Javascript, React.js, React-Redux, HTML5/CSS3, Ajax, axios, Jsp
 
 ### Database
-- OracleDB, SQLite, Mybatis
+- OracleDB, SQLite, MariaDB, Mybatis, Django ORM, PostgreSQL
 ----
 
 
